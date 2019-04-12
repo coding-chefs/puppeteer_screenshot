@@ -1,2 +1,2 @@
-# puppeteer_screenshot
-Screenshot your desired website as pdf and send file by AWS SES.
+# Puppeteer Screenshot
+This simple application takes a screenshot of your desired website or web application and sends the pdf by AWS SES(optional). 
